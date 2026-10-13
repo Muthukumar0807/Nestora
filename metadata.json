@@ -1,0 +1,6 @@
+{
+  "name": "Nestora",
+  "description": "Weave your dream home with Nesto the Baya Weaver companion. Intelligent, jargon-free interior and exterior home design visualizer and decision guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
